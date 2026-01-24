@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Avrajyoti Dutta's Github Personal Website...
+title: "Welcome to Avrajyoti's Website!"
 "
 author_profile: true
 redirect_from: 
@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+Thanks for visiting my website! I am a Multimedia Researcher.
 
 Avrajyoti Dutta's Personal Website...
 ======
