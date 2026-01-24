@@ -12,5 +12,5 @@ Thanks for visiting my website! I am a Multimedia Researcher.
 
 Avrajyoti Dutta's Personal Website...
 ======
-
+Take a look at the links above to know more about me!
 
