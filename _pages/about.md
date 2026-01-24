@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Welcome to Avrajyoti's Website!"
-"
+
 author_profile: true
 redirect_from: 
   - /about/
