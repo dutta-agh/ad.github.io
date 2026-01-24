@@ -26,8 +26,8 @@ author:
   avatar           : "profile.jpeg" #"profile.png"
   name             : "Avrajyoti Dutta" #"Bio"
   pronouns         : "He/His" # example: "she/her"  
-  bio              : "Short biography" #"Short biography for the left-hand sidebar"
-  location         : "Krakow" #"Earth"
+  bio              : "Multimedia Researcher" #"Short biography for the left-hand sidebar"
+  location         : "Krakow, Poland" #"Earth"
   employer         : "AGH University of Krakow"
   uri              : https://www.agh.edu.pl/en # URL
   email            : avrajyoti.dutta@agh.edu.pl #"none@example.org" 
