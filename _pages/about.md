@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Avrajyoti Dutta's Github Personal Website...
+"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +9,7 @@ redirect_from:
 ---
 
 
-Avrajyoti Dutta's Github Personal Website...
+Avrajyoti Dutta's Personal Website...
 ======
 
 
